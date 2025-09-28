@@ -4,6 +4,9 @@
 /node_modules
 /public
 /app
+/eslint.config.mjs
+/sconfig.json
+/postcss.config.mjs
 /.pnp
 .pnp.*
 .yarn/*
